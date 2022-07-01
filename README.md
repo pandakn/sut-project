@@ -1,10 +1,16 @@
+
 # sut-project
 project website with amChart4
 
+## Installation
 
-Installation
+    npm install
+  
+  ##  Development
+  First, run the development server:
+  
 
-npm install
+    npm run dev
 
-run tailwind css
-npm run dev
+  
+    
